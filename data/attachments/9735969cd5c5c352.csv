@@ -1,0 +1,1 @@
+﻿"$КаталогПроекта$\venv\Scripts\activate.bat & pytest $КаталогПроекта$\1c_python\tests\test_send_message_for_cd20.py"

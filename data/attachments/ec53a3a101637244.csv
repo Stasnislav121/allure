@@ -1,0 +1,1 @@
+﻿"$КаталогПроекта$\venv\Scripts\activate.bat & pytest $КаталогПроекта$\1c_python\tests\test_close_parcel_for_CreateIssuance.py::test_close_period_has_expired --parcel=0000989097291"

@@ -1,0 +1,1 @@
+﻿"$КаталогПроекта$\venv\Scripts\activate.bat & pytest $КаталогПроекта$\1c_python\tests\test_create_parcel_for_ParcelData.py::test_create_parcel_pickup"
